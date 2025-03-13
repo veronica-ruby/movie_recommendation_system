@@ -1,4 +1,4 @@
-# Movie Recommender System  
+ Movie Recommender System  
 
 ## Overview  
 Welcome to the **Movie Recommender System**, an advanced **content-based recommendation engine** leveraging **machine learning** and **natural language processing** to suggest movies based on user preferences. Built with **Streamlit**, this application provides an intuitive and interactive experience for movie enthusiasts.  
