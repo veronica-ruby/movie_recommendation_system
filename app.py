@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as p
 import streamlit as st
 import pickle
 import requests
