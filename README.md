@@ -1,4 +1,5 @@
-# [Movie Recommender System](https://movierecommendationsystem-iqskcfza2aadtd27kqdhu4.streamlit.app/)
+# Movie Recommender System
+Link - https://movierecommendationsystem-iqskcfza2aadtd27kqdhu4.streamlit.app/
 ## Overview  
 Welcome to the **Movie Recommender System**, an advanced **content-based recommendation engine** leveraging **machine learning** and **natural language processing** to suggest movies based on user preferences. Built with **Streamlit**, this application provides an intuitive and interactive experience for movie enthusiasts.  
 
