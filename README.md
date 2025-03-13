@@ -1,4 +1,4 @@
- Movie Recommender System  
+# Movie Recommender System  
 
 ## Overview  
 Welcome to the **Movie Recommender System**, an advanced **content-based recommendation engine** leveraging **machine learning** and **natural language processing** to suggest movies based on user preferences. Built with **Streamlit**, this application provides an intuitive and interactive experience for movie enthusiasts.  
@@ -26,3 +26,10 @@ Welcome to the **Movie Recommender System**, an advanced **content-based recomme
 - **Scikit-learn** – Cosine similarity computation  
 
 ---
+
+##Screenshots
+![Screenshot (87)](https://github.com/user-attachments/assets/2b8aa49e-210f-409b-98fd-ab9e97cf5406)
+![Screenshot (88)](https://github.com/user-attachments/assets/d56c86c0-cd10-4e74-ac47-2bec2f1f718a)
+
+
+
